@@ -49,6 +49,7 @@ function App() {
       );
       // ...
     }
+console.log(Login);
   if (token != "") return (
     <BrowserRouter>
       <NavigationBar user = {user}/>
